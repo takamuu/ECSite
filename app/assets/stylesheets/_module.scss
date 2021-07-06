@@ -1,0 +1,45 @@
+// ===========モジュール==========================
+// カラー
+$base-color: #f8f8f8;
+$main-color: #ffffff;
+$creator-color: #ea617c;
+$creator-sub-color: #f6e8eb;
+$client-color: #32b9ec;
+$client-sub-color: #e2f7ff;
+$tag-color: #f6e8eb;
+$basic-font-color: #000000;
+$text-font-color: #707070;
+$link-hover-color: #0000ff;
+
+// フォント基本
+$font-bold: 600;
+
+// フォントサイズ
+$font-large-size: 40px;
+$font-title-size: 28px;
+$font-main-size: 20px;
+$font-medium-size: 18px;
+$font-normal-size: 16px;
+$font-sub-size: 14px;
+$font-tag-size: 12px;
+$sp-font-main: 14px;
+$sp-font-text: 12px;
+//1280px~640pxの間、20px~16pxの可変
+$font-adjust-size: calc(1rem + ((1vw - 0.64rem) * 0.625));
+
+// 画像・アイコン
+$icon-size: 20px;
+$pc-sns-icon: 50px;
+$sp-sns-icon: 24px;
+$pc-user-img: 110px;
+$pc-user-sub-img: 50px;
+$pc-task-img: 65px;
+
+//線
+$text-border-bottom: 1px solid $text-font-color;
+$text-border-radius: 1px solid $text-font-color;
+
+//影
+$box-shadow-normal: 5px 5px 5px rgba(0, 0, 0, 0.16);
+
+//テキストエリアの余白
