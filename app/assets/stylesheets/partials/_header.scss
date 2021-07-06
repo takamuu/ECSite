@@ -1,0 +1,11 @@
+.header__menu-link {
+  ul {
+    display: flex;
+
+    li {
+      font-size: $font-medium-size;
+      line-height: 53px;
+      margin-right: 30px;
+    }
+  }
+}
